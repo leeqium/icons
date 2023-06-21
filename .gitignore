@@ -2,3 +2,7 @@
 trunk/*/Gemfile.lock
 trunk/*/log/
 trunk/*/tmp/
+dev/Gemfile.lock
+dev/log/
+dev/tmp/
+dev/file$
