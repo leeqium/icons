@@ -1,0 +1,4 @@
+.svn
+trunk/*/Gemfile.lock
+trunk/*/log/
+trunk/*/tmp/
